@@ -1,12 +1,23 @@
+.header {
+  background-color: yellow;
+  height: 35px;
+}
+.header-list li {
+  float: left;
+  padding: 9px 15px;
+  list-style: none;
+  font-size: 16px;
+}
 .header-logo {
   color: #02ccba;
+  font-size: 25px;
   float: left;
-  background-color: brown;
 }
-.header-list {
-  float: left;
-  font-size: 13px;
-  list-style: none;
-  padding: 6px;
 
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+.main-one span{
+  color: red;
 }
