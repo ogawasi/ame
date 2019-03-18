@@ -1,3 +1,12 @@
-.title {
+.header-logo {
   color: #02ccba;
+  float: left;
+  background-color: brown;
+}
+.header-list {
+  float: left;
+  font-size: 13px;
+  list-style: none;
+  padding: 6px;
+
 }
